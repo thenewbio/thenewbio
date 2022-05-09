@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...PHP
 - 🤔 I’m looking for help with ...JavaScript
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[@barnaba18035214]
-- 😄 Pronouns: ...He/Him
+- 📫 How to reach me: ...[!@barnaba18035214]
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Work hard and Stay foolish,stay focused.
--->
